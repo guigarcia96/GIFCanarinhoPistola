@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "386764010116",
+    "firebase_url": "https://gif-canarinho-pistola.firebaseio.com",
+    "project_id": "gif-canarinho-pistola",
+    "storage_bucket": "gif-canarinho-pistola.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:386764010116:android:00c1b6529eba7ddf",
+        "android_client_info": {
+          "package_name": "com.memes.guilherme.gifscanarinhopistola"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "386764010116-ba7du868dnoijiikuqld6l95h8plf225.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.memes.guilherme.gifscanarinhopistola",
+            "certificate_hash": "ed08846c9cb5a325bde5698235ebd537c181ce33"
+          }
+        },
+        {
+          "client_id": "386764010116-dc7pp78e566efsagte3ar12mig1klh9o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBBzX7J3zo6yhbKleEfoS9In8tMa0ykw5M"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "386764010116-dc7pp78e566efsagte3ar12mig1klh9o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
