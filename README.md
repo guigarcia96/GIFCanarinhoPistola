@@ -10,4 +10,4 @@ Podendo compartilhar na maioria das redes sociais que suportam GIFs
 
 Os melhores memes estão aqui.
 
-https://i.ibb.co/QQ4WBj5/canarinhopistola1.jpg
+![alt text](https://i.ibb.co/QQ4WBj5/canarinhopistola1.jpg)
