@@ -2,4 +2,4 @@
 
 Um app criado em plena Copa do Mundo para compartilhar Gifs do mascote da seleção.
 
-(https://ibb.co/MncPDbN)
+https://ibb.co/MncPDbN.jpg
