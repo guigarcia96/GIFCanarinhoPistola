@@ -2,4 +2,4 @@
 
 Um app criado em plena Copa do Mundo para compartilhar Gifs do mascote da seleção.
 
-!(https://tempodecozimento.com.br/wp-content/uploads/2017/10/batata.jpg)
+![alt text](https://i.ibb.co/zsXPh1f/canarinhopistola3.jpg)
